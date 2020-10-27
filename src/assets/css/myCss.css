@@ -1,0 +1,34 @@
+.nav-input{
+    width: 50%;
+    
+}
+.nav{
+    display: flex;
+    line-height: 60px;
+    justify-content: space-evenly;
+}
+.nav span{
+    font-size: 26px;
+}
+
+.list-header{
+    display: flex;
+    justify-content: space-between;
+    font-size: 24px;
+    height: 40px;
+    line-height: 40px;
+}
+.counter{
+    height: 40px;
+}
+.todo-item{
+    display: flex;
+    justify-content:space-between;
+    line-height: 40px;
+}
+.card{
+    margin: 10px 0;
+}
+body{
+    background: #ddd;
+}
